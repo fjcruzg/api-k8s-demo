@@ -21,4 +21,5 @@ Thumbs.db
 *.swp
 *.tmp
 
+# Archivos Istio
 /istio-1.25.2
